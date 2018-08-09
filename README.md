@@ -1,2 +1,2 @@
 # threats2mangroves-usingML
-Obtaining Satellite Imagery 
+Combining satellite imagery and machine learning to predict poverty
